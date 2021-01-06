@@ -1,1 +1,1 @@
-# COVID-Detection-Through-X-ray-Images
+# COVID-19-Detection-Through-X-ray-Images
